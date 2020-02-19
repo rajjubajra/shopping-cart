@@ -17,5 +17,7 @@ Example
     </p>
     <p>
 You can check the following server as an example:
+    </p>
+    <p>
 https://my-json-server.typicode.com/typicode/demo
     </p>
